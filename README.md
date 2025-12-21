@@ -85,4 +85,4 @@ Run each notebook sequentially.
 - [Anova Stasmodel](https://www.geeksforgeeks.org/data-analysis/how-to-obtain-anova-table-with-statsmodels/)
 - [Anova Stasmodel Code Example](https://thequackdaddy.github.io/statsmodels.github.io/stable/generated/statsmodels.stats.anova.anova_lm.html)
 - [Anova Stasmodel](https://www.statsmodels.org/dev/anova.html)
-- [Generative AI - Used to code fix and gramamr check](https://chatgpt.com/)
+- [Generative AI - Used to code fix and grammar check](https://chatgpt.com/)
